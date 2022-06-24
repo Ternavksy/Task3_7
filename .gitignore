@@ -1,0 +1,4 @@
+# Project exclude paths
+git config --global user.email "topkek555228@gmail.com"
+git config --global user.name "Daniil Ternavsky"
+/out/
